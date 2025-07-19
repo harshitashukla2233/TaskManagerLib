@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskManager Library
 
 A simple C++ TaskManager library with functions to add, remove, list, and update task statuses.  
@@ -73,3 +74,6 @@ On Windows:
 On Linux/macOS:
 
 ./test_task_manager
+=======
+# TaskManagerLib
+>>>>>>> 53b7e41007bd64d3882572972f5286e6e726ecde
